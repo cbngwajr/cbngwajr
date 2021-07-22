@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @cbngwajr
-- 👀 I’m interested in Data Science/Analytics using Python
-- 🌱 I’m currently learning Data Science and Analytics. Completed the Practicum by Yandex Data Science program and would love to get into the field. I am also looking to grow my knowledge in Python, SQL and other languages possibly
-- 💞️ I’m looking to collaborate on Data Science/Analytics projects
+# Hi, I’m Chris Ngwa
+- 👀 I'm an aspiring in Data Scientist/Analyst using Python
 - 📫 How to reach me [email: cjbry45@gmail.com]
 
 <!---
